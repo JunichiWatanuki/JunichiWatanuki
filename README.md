@@ -1,9 +1,5 @@
 ### 👋 Hi! I'm JunichiWatanuki
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/JunichiWatanuki/posts.svg)](http://qiita.com/mikkame)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/JunichiWatanuki/contributions.svg)](http://qiita.com/JunichiWatanuki)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/JunichiWatanuki/followers.svg)](http://qiita.com/JunichiWatanuki)
-
 <p align="left"> 
   <a href="https://github.com/JunichiWatanuki/JunichiWatanuki/">
     <img src="https://komarev.com/ghpvc/?username=JunichiWatanuki" alt="JunichiWatanuki" />
@@ -16,8 +12,6 @@
   </a>
 </p>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=JunichiWatanuki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunichiWatanuki)](https://github.com/anuraghazra/github-readme-stats)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
